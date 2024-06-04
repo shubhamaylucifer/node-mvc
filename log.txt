@@ -1,0 +1,31 @@
+1717355916842 : GET : /api/users 
+1717355921365 : GET : /api/users/1 
+1717355996438 : GET : /api/users/1 from ip : ::ffff:127.0.0.1 
+1717356001184 : GET : /api/users/2 from ip : ::ffff:127.0.0.1 
+1717440866434 : GET : /api/users from ip : ::ffff:127.0.0.1 
+1717440929223 : GET : /api/users from ip : ::ffff:127.0.0.1 
+1717440994531 : GET : /api/users from ip : ::ffff:127.0.0.1 
+1717441389890 : GET : /api/users from ip : ::ffff:127.0.0.1 
+1717441419890 : POST : /api/users from ip : ::ffff:127.0.0.1 
+1717441585177 : POST : /api/users from ip : ::ffff:127.0.0.1 
+1717441605381 : POST : /api/users from ip : ::ffff:127.0.0.1 
+1717441638440 : POST : /api/usersss from ip : ::ffff:127.0.0.1 
+1717441645018 : POST : /api/users from ip : ::ffff:127.0.0.1 
+1717441656015 : POST : /api/users/10022 from ip : ::ffff:127.0.0.1 
+1717443213145 : POST : /api/users from ip : ::ffff:127.0.0.1 
+1717443309914 : POST : /api/users from ip : ::ffff:127.0.0.1 
+1717443370695 : GET : /api/users from ip : ::ffff:127.0.0.1 
+1717443471280 : GET : /users from ip : ::ffff:127.0.0.1 
+1717443514801 : GET : /api/users from ip : ::ffff:127.0.0.1 
+1717443807088 : GET : /api/users from ip : ::ffff:127.0.0.1 
+1717443821082 : GET : /api/users/665e1a8d626ec1fa6ca59230 from ip : ::ffff:127.0.0.1 
+1717444381864 : PATCH : /api/users/665e1a8d626ec1fa6ca59230 from ip : ::ffff:127.0.0.1 
+1717444385406 : GET : /api/users/665e1a8d626ec1fa6ca59230 from ip : ::ffff:127.0.0.1 
+1717444495145 : DELETE : /api/users/665e1a8d626ec1fa6ca59230 from ip : ::ffff:127.0.0.1 
+1717444498200 : GET : /api/users/665e1a8d626ec1fa6ca59230 from ip : ::ffff:127.0.0.1 
+1717444505633 : GET : /api/users from ip : ::ffff:127.0.0.1 
+1717529686590 : GET : /api/users from ip : ::ffff:127.0.0.1 
+1717529736712 : POST : /api/users from ip : ::ffff:127.0.0.1 
+1717529742031 : GET : /api/users from ip : ::ffff:127.0.0.1 
+1717529765619 : DELETE : /api/users/665f6c88844adfa9e2ab64b1 from ip : ::ffff:127.0.0.1 
+1717529769648 : GET : /api/users from ip : ::ffff:127.0.0.1 
